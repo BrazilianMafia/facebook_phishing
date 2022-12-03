@@ -15,7 +15,9 @@ Página falsa do Facebook 2022 totalmente idependente (não busca arquivos na in
 <li><span style="font-family: arial;">Não redirecionou para página certa: Modifique o link meta em login.php </span></li>
 <li><span style="font-family: arial;">Não encontrei a senha: Abra local.txt</span></li>
 
+<br>
  <p>Autor :-https://instagram.com/brazilian_mafia_ofc</p>
+
  
 <h3 style="text-align: left;">
 <span style="font-family: arial;">Instalaçao & Uso
